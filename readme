@@ -1,0 +1,7 @@
+The changes made were in the page.tpl.php file, these lines 
+
+line number 50:     <a href="<?php print check_url($front_page); ?>" 
+
+                                 is replaced with:    <a href="<?php print check_url($front_page); ?>department" 
+
+the same is done with line number 56. Note that the line numbers given here are approximate based on text editor.
